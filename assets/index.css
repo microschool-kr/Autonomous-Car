@@ -1,0 +1,11 @@
+html,
+body,
+center {
+  height: 100%
+}
+
+.group-button {
+  position: absolute !important;
+  top: 2%;
+  right: 2%;
+}
